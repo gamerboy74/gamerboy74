@@ -1,4 +1,4 @@
-## Hey 👋, I'm Rahul Jha!
+## Hey 👋, I'm Om Kumar Pandit!
 <a href='https://www.linkedin.com/in/omkumar7/'><img align='left' alt="linkedin" src="" height='18px'/></a>
 <a href='https://twitter.com/gboy31202/'><img align='left' alt="twitter" src="" height='18px'/></a>
 
