@@ -64,71 +64,25 @@ Currently building **Sow Saathi** — a decentralized agricultural marketplace c
 
 # 🚀 Featured Projects
 
-<table>
-<tr>
-<td width="50%">
-
-## 🤖 Yuki Assistant
-
-Fully offline AI voice assistant with wake word support, Whisper STT, Ollama LLMs, and Edge TTS.
-
-### ⚡ Stack
-Python • Electron • React • Ollama • Whisper
+<p align="center">
 
 <a href="https://github.com/gamerboy74/Yuki-Assistant">
-<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=gamerboy74&repo=Yuki-Assistant&theme=transparent&hide_border=true" />
 </a>
-
-</td>
-
-<td width="50%">
-
-## 🌾 SOWSURE
-
-Decentralized agricultural marketplace powered by Ethereum escrow smart contracts and Supabase backend.
-
-### ⚡ Stack
-React • Solidity • TypeScript • Supabase • Ethers.js
 
 <a href="https://github.com/gamerboy74/SOWSURE">
-<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=gamerboy74&repo=SOWSURE&theme=transparent&hide_border=true" />
 </a>
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-## 🎬 ChillFlix
-
-Netflix-style streaming platform with Web3-based membership authentication.
-
-### ⚡ Stack
-Next.js • Prisma • Tailwind CSS • Solidity
-
-<a href="https://chill-flix-om-kumars-projects-14010a7e.vercel.app">
-<img src="https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
-</td>
-
-<td width="50%">
-
-## 🗳️ E-Voting DApp
-
-Blockchain-powered voting system with transparent and immutable vote recording.
-
-### ⚡ Stack
-TypeScript • Solidity
 
 <a href="https://github.com/gamerboy74/E-voting-Dapp">
-<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=gamerboy74&repo=E-voting-Dapp&theme=transparent&hide_border=true" />
 </a>
 
-</td>
-</tr>
-</table>
+<a href="https://github.com/gamerboy74/Twitter-Account-Monitor">
+<img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=gamerboy74&repo=Twitter-Account-Monitor&theme=transparent&hide_border=true" />
+</a>
+
+</p>
 
 ---
 
