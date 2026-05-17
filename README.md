@@ -70,13 +70,10 @@ Currently building **Sow Saathi** — a decentralized agricultural marketplace c
 
 ## 🤖 Yuki Assistant
 
-<a href="https://github.com/gamerboy74/Yuki-Assistant">
-<img src="YOUR_IMAGE_LINK_HERE" width="100%"/>
-</a>
-
 Fully offline AI voice assistant with wake word support, Whisper STT, Ollama LLMs, and Edge TTS.
 
-<br/><br/>
+### ⚡ Stack
+Python • Electron • React • Ollama • Whisper
 
 <a href="https://github.com/gamerboy74/Yuki-Assistant">
 <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
@@ -88,15 +85,44 @@ Fully offline AI voice assistant with wake word support, Whisper STT, Ollama LLM
 
 ## 🌾 SOWSURE
 
+Decentralized agricultural marketplace powered by Ethereum escrow smart contracts and Supabase backend.
+
+### ⚡ Stack
+React • Solidity • TypeScript • Supabase • Ethers.js
+
 <a href="https://github.com/gamerboy74/SOWSURE">
-<img src="YOUR_IMAGE_LINK_HERE" width="100%"/>
+<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-Decentralized agricultural marketplace powered by Ethereum escrow smart contracts.
+</td>
+</tr>
 
-<br/><br/>
+<tr>
+<td width="50%">
 
-<a href="https://github.com/gamerboy74/SOWSURE">
+## 🎬 ChillFlix
+
+Netflix-style streaming platform with Web3-based membership authentication.
+
+### ⚡ Stack
+Next.js • Prisma • Tailwind CSS • Solidity
+
+<a href="https://chill-flix-om-kumars-projects-14010a7e.vercel.app">
+<img src="https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+</td>
+
+<td width="50%">
+
+## 🗳️ E-Voting DApp
+
+Blockchain-powered voting system with transparent and immutable vote recording.
+
+### ⚡ Stack
+TypeScript • Solidity
+
+<a href="https://github.com/gamerboy74/E-voting-Dapp">
 <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
