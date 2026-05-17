@@ -40,13 +40,11 @@ Currently building **Sow Saathi** — a decentralized agricultural marketplace c
 
 
 
-![Stats](https://github-readme-stats.vercel.app/api?username=gamerboy74&show_icons=true&hide_border=true&theme=default)
+![Om's GitHub stats](https://github-readme-stats.vercel.app/api?username=gamerboy74&show_icons=true&theme=transparent&hide_border=true&cache_seconds=1800)
 
 
 
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gamerboy74&layout=compact&hide_border=true&theme=default)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gamerboy74&layout=compact&theme=transparent&hide_border=true&cache_seconds=1800)
 
 
 <br/>
