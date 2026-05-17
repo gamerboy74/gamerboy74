@@ -64,25 +64,45 @@ Currently building **Sow Saathi** — a decentralized agricultural marketplace c
 
 # 🚀 Featured Projects
 
-<p align="center">
+<table>
+<tr>
+<td width="50%">
+
+## 🤖 Yuki Assistant
 
 <a href="https://github.com/gamerboy74/Yuki-Assistant">
-<img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=gamerboy74&repo=Yuki-Assistant&theme=transparent&hide_border=true" />
+<img src="YOUR_IMAGE_LINK_HERE" width="100%"/>
 </a>
+
+Fully offline AI voice assistant with wake word support, Whisper STT, Ollama LLMs, and Edge TTS.
+
+<br/><br/>
+
+<a href="https://github.com/gamerboy74/Yuki-Assistant">
+<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+
+<td width="50%">
+
+## 🌾 SOWSURE
 
 <a href="https://github.com/gamerboy74/SOWSURE">
-<img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=gamerboy74&repo=SOWSURE&theme=transparent&hide_border=true" />
+<img src="YOUR_IMAGE_LINK_HERE" width="100%"/>
 </a>
 
-<a href="https://github.com/gamerboy74/E-voting-Dapp">
-<img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=gamerboy74&repo=E-voting-Dapp&theme=transparent&hide_border=true" />
+Decentralized agricultural marketplace powered by Ethereum escrow smart contracts.
+
+<br/><br/>
+
+<a href="https://github.com/gamerboy74/SOWSURE">
+<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://github.com/gamerboy74/Twitter-Account-Monitor">
-<img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=gamerboy74&repo=Twitter-Account-Monitor&theme=transparent&hide_border=true" />
-</a>
-
-</p>
+</td>
+</tr>
+</table>
 
 ---
 
