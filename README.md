@@ -6,7 +6,7 @@
 <br/>
 <br/>
 
-Full Stack & Web3 Developer. I build production-grade web apps and decentralized systems — from smart contract escrow logic to real-time dashboards.
+Full Stack, Web3 & AI Developer. I build production apps spanning decentralized marketplaces, offline AI desktop assistants, and Web3-enabled platforms.
 
 Currently building **Sow Saathi** — a decentralized agricultural marketplace connecting farmers and buyers on Ethereum.
 
@@ -15,8 +15,9 @@ Currently building **Sow Saathi** — a decentralized agricultural marketplace c
 ### 🧐 About Me
 
 - 🔭 &nbsp; Working on **[SOWSURE](https://github.com/gamerboy74/SOWSURE)** — DeFi meets agriculture
-- 🌐 &nbsp; Focused on **Full Stack Web + Web3 / DApp development**
-- 💬 &nbsp; Ask me about React, TypeScript, Solidity, or Supabase
+- 🤖 &nbsp; Also building **[Yuki](https://github.com/gamerboy74/Yuki-Assistant)** — fully offline AI voice assistant (Hindi/English, runs locally)
+- 🌐 &nbsp; Focused on **Full Stack · Web3 · Local AI / LLM integrations**
+- 💬 &nbsp; Ask me about React, TypeScript, Solidity, Python, or Ollama
 - 📫 &nbsp; Reach me on [LinkedIn](https://www.linkedin.com/in/omkumar7/)
 
 <br/>
@@ -37,20 +38,16 @@ Currently building **Sow Saathi** — a decentralized agricultural marketplace c
 
 ### 📊 GitHub Stats
 
-<a href='https://github.com/gamerboy74/github-stats-transparent'>
 
 
-
-![Stats Overview](https://raw.githubusercontent.com/gamerboy74/github-stats-transparent/output/generated/overview.svg)
+![Stats](https://github-readme-stats.vercel.app/api?username=gamerboy74&show_icons=true&hide_border=true&theme=default)
 
 
 
 
-![Most Used Languages](https://raw.githubusercontent.com/gamerboy74/github-stats-transparent/output/generated/languages.svg)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gamerboy74&layout=compact&hide_border=true&theme=default)
 
 
-
-</a>
 
 <br/>
 
@@ -58,7 +55,8 @@ Currently building **Sow Saathi** — a decentralized agricultural marketplace c
 
 | Project | Description | Stack |
 |---|---|---|
-| [SOWSURE Wallet](https://github.com/gamerboy74/SOWSURE-WALLET) | Decentralized agri marketplace — farmers & buyers transact via Ethereum escrow smart contracts, with role-based dashboards and Supabase backend | React · TypeScript · Solidity · Supabase · Ethers.js |
+| [Yuki Assistant](https://github.com/gamerboy74/Yuki-Assistant) | Fully offline AI voice assistant for Windows — wake word, Whisper STT, Gemma 3 4B via Ollama, Edge TTS. Supports Hindi/Hinglish/English | Python · TypeScript · Electron · React · Ollama · Whisper |
+| [SOWSURE](https://github.com/gamerboy74/SOWSURE) | Decentralized agri marketplace — farmers & buyers transact via Ethereum escrow smart contracts, with role-based dashboards and Supabase backend | React · TypeScript · Solidity · Supabase · Ethers.js |
 | [ChillFlix](https://chill-flix-om-kumars-projects-14010a7e.vercel.app) | Netflix-style streaming platform with Web3 membership via on-chain contract | Next.js · TypeScript · Prisma · Tailwind CSS |
 | [E-Voting DApp](https://github.com/gamerboy74/E-voting-Dapp) | Blockchain-based voting system with transparent, tamper-resistant vote recording | TypeScript · Solidity |
 | [Twitter Account Monitor](https://github.com/gamerboy74/Twitter-Account-Monitor) | Python tool to monitor Twitter/X account activity | Python |
