@@ -107,7 +107,7 @@ Netflix-style streaming platform with Web3-based membership authentication.
 ### ⚡ Stack
 Next.js • Prisma • Tailwind CSS • Solidity
 
-<a href="[https://chill-flix-y56.vercel.app/](https://chill-flix-y56.vercel.app/)">
+<a href="https://github.com/gamerboy74/ChillFlix">
 <img src="https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
