@@ -75,7 +75,7 @@ Fully offline AI voice assistant with wake word support, Whisper STT, Ollama LLM
 ### ⚡ Stack
 Python • Electron • React • Ollama • Whisper
 
-<a href="https://github.com/gamerboy74/Yuki-Assistant">
+<a href="https://yuki-assistant.vercel.app/">
 <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
