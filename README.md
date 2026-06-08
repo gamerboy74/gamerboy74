@@ -75,8 +75,11 @@ Fully offline AI voice assistant with wake word support, Whisper STT, Ollama LLM
 ### ⚡ Stack
 Python • Electron • React • Ollama • Whisper
 
-<a href="https://yuki-assistant.vercel.app/">
+<a href="https://github.com/gamerboy74/Yuki-Assistant">
 <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://yuki-assistant.vercel.app/">
+<img src="https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
 </td>
@@ -115,26 +118,10 @@ Next.js • Prisma • Tailwind CSS • Solidity
 
 <td width="50%">
 
-## 🗳️ E-Voting DApp
+## 🔜 Coming Soon
 
-Blockchain-powered voting system with transparent and immutable vote recording.
-
-### ⚡ Stack
-TypeScript • Solidity
-
-<a href="https://github.com/gamerboy74/E-voting-Dapp">
-<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+A new project is in progress. Check back soon.
 
 </td>
 </tr>
 </table>
-
----
-
-## 📈 Current Focus
-
-- Building decentralized real-world utility apps
-- Exploring local AI + Ollama integrations
-- Scaling Web3 products with production-ready UX
-- Learning advanced AI workflows & automation
